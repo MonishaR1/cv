@@ -1,0 +1,21 @@
+body {
+    background-image: none;
+    background-color: #3baec56b;
+  }
+
+table{
+    margin-top: 60px;
+    text-align: left;
+    background: #07154725;
+    border-color: rgba(0, 0, 255, 0.164);
+    border-style: dashed;
+}
+
+#show th, #show td{
+    padding: 13px;
+}
+
+#btn td input{
+    width:100%;
+
+}
